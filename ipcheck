@@ -1,0 +1,7 @@
+echo "Press ctrl+c to exit"
+while true
+do
+curl ipecho.net/plain;echo
+sleep 1
+done
+
